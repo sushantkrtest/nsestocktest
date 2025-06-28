@@ -1,0 +1,8 @@
+Jun 28, 2025 5:13:59 PM tests.StockInfoTest setUp
+INFO: Expected Profit Price Loaded for TATACHEM: 491.3499999999999
+Jun 28, 2025 5:14:19 PM tests.StockInfoTest verifyStockDisplay
+INFO: 52 Week High Price: 1247.35
+Jun 28, 2025 5:14:19 PM tests.StockInfoTest verifyStockDisplay
+INFO: 52 Week Low Price: 756.0
+Jun 28, 2025 5:14:19 PM tests.StockInfoTest verifyStockDisplay
+INFO: Profit/Loss: 491.3499999999999
