@@ -45,7 +45,7 @@ public class StockInfoTest {
         }
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-
+        //Based on the properties file keys this test will work
         stockSymbol = ConfigReader.getProperty("stock.TATACHEM");
         expectedProfit = TestDataProvider.getProfit(stockSymbol);
         logger.info("Expected Profit Price Loaded for " + stockSymbol + ": " + expectedProfit);
